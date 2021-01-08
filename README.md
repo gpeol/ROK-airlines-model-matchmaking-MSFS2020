@@ -1,2 +1,16 @@
-# ROK-airlines-model-matchmaking-MSFS2020
-What else..? just download, and apply the Vpilot custom model match!
+# 새로워진 국내 FSC/LCC/VA 항공사 모델 매칭 파일을 소개합니다!!
+
+## 본 파일은 MSFS로 밧심을 즐기던 중 국내 LCC 기체가 제대로 구현되지 않아 빡친 유저의 한이 담겨있습니다.
+
+적용 항공사 (ICAO 코드 기준)
+
+1. FSC (*말 안해도 아시죠..?*)
+2. LCC
+    - 아시아나 계열
+      * 에어부산
+      * 에어서울
+    - 진에어 (대한항공)
+    - 티웨이항공
+    - Aero.K
+    - 플라이강원
+    - 
