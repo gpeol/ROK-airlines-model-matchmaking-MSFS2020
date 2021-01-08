@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<ModelMatchRuleSet> <!--set the fleet's model-->
+
+<!--Full Service Career-->
+<ModelMatchRule CallsignPrefix="KAL" TypeCode="A388" ModelName="A388KAL" />
+<ModelMatchRule CallsignPrefix="KAL" TypeCode="B744" ModelName="B744KAL2//B744KALBCF" />
+<ModelMatchRule CallsignPrefix="KAL" TypeCode="B748" ModelName="Boeing B747-8i Korean Air Left version//Boeing B747-8i Korean Air Right version" />
+<ModelMatchRule CallsignPrefix="KAL" TypeCode="B77L" ModelName="B77LKALCRG" />
+<ModelMatchRule CallsignPrefix="KAL" TypeCode="B77W" ModelName="B77WKAL" />
+
+<ModelMatchRule CallsignPrefix="AAR" TypeCode="A320" ModelName="A320AAR" />
+<ModelMatchRule CallsignPrefix="AAR" TypeCode="A321" ModelName="A321AAR" />
+<ModelMatchRule CallsignPrefix="AAR" TypeCode="A359" ModelName="A359AAR" />
+<ModelMatchRule CallsignPrefix="AAR" TypeCode="A388" ModelName="A388AAR" />
+<ModelMatchRule CallsignPrefix="AAR" TypeCode="B744" ModelName="B744AAR" />
+<ModelMatchRule CallsignPrefix="AAR" TypeCode="B748" ModelName="Boeing B747-8i Asiana Left//Boeing B747-8i Asiana Right" />
+
+
+<!--Low Cost Career-->
+
+
+
+<ModelMatchRule CallsignPrefix="ABL" TypeCode="A320" ModelName="A320ABL" />
+<ModelMatchRule CallsignPrefix="ABL" TypeCode="A321" ModelName="A321ABL" />
+<ModelMatchRule CallsignPrefix="ABL" TypeCode="A21N" ModelName="Airbus A320 Neo Air Busan" />
+<ModelMatchRule CallsignPrefix="ASV" TypeCode="A321" ModelName="A321ASV" />
+
+<ModelMatchRule CallsignPrefix="TWB" TypeCode="B738" ModelName="B738WTWBWL//B738WTWBWL2" />
+<ModelMatchRule CallsignPrefix="TWB" TypeCode="A333" ModelName="Airbus A320 Neo T'way Air//Airbus A320 Neo T'way VATKOR" />
+
+<ModelMatchRule CallsignPrefix="ESR" TypeCode="B738" ModelName="B738ESR//B738ESR2//B738WESRWL//B738WESRWL2" />
+<ModelMatchRule CallsignPrefix="ESR" TypeCode="B739" ModelName="B739WESRWL" />
+
+<!--Virtual Airlines-->
+<ModelMatchRule CallsignPrefix="MOE" TypeCode="A320" ModelName="Airbus A320 Neo AirMoses" />
+<ModelMatchRule CallsignPrefix="MOE" TypeCode="A320" ModelName="Airbus A320 Neo AirMoses" />
+<ModelMatchRule CallsignPrefix="MOE" TypeCode="A320" ModelName="Airbus A320 Neo AirMoses" />
+<ModelMatchRule CallsignPrefix="MOE" TypeCode="B738" ModelName="Airbus A320 Neo AirMoses" />
+
+<ModelMatchRule CallsignPrefix="HLA" TypeCode="B744" ModelName="B744BOE" />
+
+<ModelMatchRule CallsignPrefix="GOR" TypeCode="B77L" ModelName="B77LBOE" />
